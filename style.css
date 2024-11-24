@@ -1,0 +1,17 @@
+.bienvenue, .ZZZ, .fin {
+    color: #2CB9EE;
+    font-family: Arial;
+}
+
+.bienvenue{
+    text-decoration: underline;
+}
+
+.fin {
+    text-align: center;
+}
+
+.couleur {
+    color: red;
+}
+
